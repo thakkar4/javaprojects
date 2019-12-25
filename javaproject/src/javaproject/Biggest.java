@@ -9,7 +9,7 @@ public static void main (String [] args) {
 		int b = 19;
 		int c = 21;
 		int d = 35;
-		int e = 38;
+		int e = 40;
 
 		if (a>b && a>c&& a>d && a>e)
 		System.out.println(" Biggest is : " + a); 
